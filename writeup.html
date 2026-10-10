@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title id="pageTitle">Writeup // Jawstar Security</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<style>
+  .writeup-body { font-size: 14.5px; }
+  .writeup-body h1, .writeup-body h2, .writeup-body h3 { color: var(--amber); border-bottom: 1px solid var(--cyan-dim); padding-bottom: 6px; }
+  .writeup-body code { background: var(--bg); color: var(--cyan); padding: 2px 5px; border: 1px solid var(--cyan-dim); font-size: 13px; }
+  .writeup-body pre { background: var(--bg); border: 1px solid var(--cyan-dim); padding: 14px; overflow-x: auto; }
+  .writeup-body pre code { border: none; padding: 0; }
+  .writeup-body img { max-width: 100%; border: 1px solid var(--cyan-dim); }
+  .writeup-body blockquote { border-left: 2px solid var(--amber-dim); margin: 0; padding-left: 14px; color: var(--text-dim); }
+  .back-link { display: inline-block; margin-bottom: 18px; font-size: 13px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="termbar">
+    <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+    <span style="margin-left:8px;" id="termPath">jawstar@security:~/writeups</span>
+  </div>
+  <div class="terminal">
+    <a class="back-link" href="index.html">&lt;- back to vault</a>
+    <div id="writeupHeader"></div>
+    <div class="writeup-body" id="writeupBody">loading...</div>
+  </div>
+</div>
+
+<script>
+async function loadWriteup() {
+  const params = new URLSearchParams(window.location.search);
+  const path = params.get('path');
+  if (!path) {
+    document.getElementById('writeupBody').textContent = 'No writeup specified.';
+    return;
+  }
+  document.getElementById('termPath').textContent = 'jawstar@security:~/' + path;
+
+  const res = await fetch(path);
+  const raw = await res.text();
+
+  const fmMatch = raw.match(/^---\n([\s\S]*?)\n---\n\n([\s\S]*)$/);
+  let meta = {};
+  let body = raw;
+  if (fmMatch) {
+    fmMatch[1].split('\n').forEach(line => {
+      const idx = line.indexOf(':');
+      if (idx > -1) {
+        const k = line.slice(0, idx).trim();
+        const v = line.slice(idx + 1).trim().replace(/^"|"$/g, '');
+        meta[k] = v;
+      }
+    });
+    body = fmMatch[2];
+  }
+
+  document.getElementById('pageTitle').textContent = (meta.title || 'Writeup') + ' // Jawstar Security';
+  document.getElementById('writeupHeader').innerHTML = `
+    <h1 class="brand" style="font-size:20px;">${meta.title || ''}</h1>
+    <p class="tagline">
+      <span class="tag ${meta.platform || 'other'}">${(meta.platform || 'other').toUpperCase()}</span>
+      &nbsp; ${meta.date || ''}
+    </p>
+  `;
+  document.getElementById('writeupBody').innerHTML = marked.parse(body);
+}
+loadWriteup();
+</script>
+</body>
+</html>

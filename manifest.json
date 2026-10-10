@@ -1,0 +1,877 @@
+[
+  {
+    "title": "Snort Commands Everyone Should Know Right Now !!!!!!!!",
+    "date": "2026-08-23",
+    "platform": "other",
+    "path": "writeups/other/snort-commands-everyone-should-know-right-now.md",
+    "excerpt": "--- ### Snort Commands Everyone Should Know Right Now !!!!!!!! #### BLUE TEAMING ![](https://cdn-images-1.medium.com/max/800/1*Axvs1pd3SFePsNTA2aFhFg.jpeg) ### CONTENTS 1- KEY FEATURES OF SNORT 2- Snort Operating Modes 3"
+  },
+  {
+    "title": "",
+    "date": "2026-08-23",
+    "platform": "other",
+    "path": "writeups/other/untitled-2.md",
+    "excerpt": "--- ### "
+  },
+  {
+    "title": "",
+    "date": "2026-08-23",
+    "platform": "other",
+    "path": "writeups/other/untitled-3.md",
+    "excerpt": "--- ### "
+  },
+  {
+    "title": "USB-WiFi/home/The_Short_List.md at main \u00b7 morrownr/USB-WiFi",
+    "date": "2026-08-23",
+    "platform": "other",
+    "path": "writeups/other/usb-wifihometheshortlistmd-at-main-morrownrusb-wifi.md",
+    "excerpt": "--- ### [**USB-WiFi/home/The\\_Short\\_List.md at main \u00b7 morrownr/USB-WiFi** *USB WiFi Adapter Information for Linux. Contribute to morrownr/USB-WiFi development by creating an account on GitHub.*github.com](https://github"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY - 13}Tryhackme ANSWERS",
+    "date": "2026-08-23",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-13tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY - 13}Tryhackme ANSWERS ### **The Story** ![](https://cdn-images-1.medium.com/max/800/0*_bx0VceVwRc-wpAC.png) *This SOC-mas was packed with exploits and hacking,* *Today\u2019s threat \u2014 an app,"
+  },
+  {
+    "title": "Lookup Tryhackme Write-up",
+    "date": "2026-08-23",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/lookup-tryhackme-write-up.md",
+    "excerpt": "--- ### Lookup Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/0*HB2t4-u57WXM3zer) ### Task 1 : Lookup **Lookup** offers a treasure trove of learning opportunities for aspiring hackers. This intriguing mac"
+  },
+  {
+    "title": "Snapped Phish-ing Line Tryhackme Answers",
+    "date": "2026-08-23",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/snapped-phish-ing-line-tryhackme-answers.md",
+    "excerpt": "--- ### Snapped Phish-ing Line Tryhackme Answers ![](https://cdn-images-1.medium.com/max/800/0*KOpwFLmm4ZzK2wPI.png) ### ### "
+  },
+  {
+    "title": "Example \u2014 HTB Box Name",
+    "date": "2026-08-02",
+    "platform": "hackthebox",
+    "path": "writeups/hackthebox/_example-box-name.md",
+    "excerpt": "## Recon ``` nmap -sC -sV -oN nmap.txt 10.10.10.10 ``` ## Foothold Describe the exploited vector here. ## Privilege Escalation Describe the priv-esc path here. ## Flags - user.txt: `...` - root.txt: `...` --- *Delete thi"
+  },
+  {
+    "title": "Example \u2014 SCADA/ICS Research Note",
+    "date": "2026-08-02",
+    "platform": "hardware-ot-ics-scada",
+    "path": "writeups/hardware-ot-ics-scada/_example-scada-note.md",
+    "excerpt": "## Target Describe the PLC / HMI / RTU / embedded device under test. ## Approach Modbus/firmware/hardware interface details go here. ## Findings Document the vulnerability or research outcome. --- *Delete this file once "
+  },
+  {
+    "title": "Example \u2014 Site Migrated Off Medium",
+    "date": "2026-08-02",
+    "platform": "news",
+    "path": "writeups/news/_example-news-post.md",
+    "excerpt": "Short update-style post goes here. Use the admin.html composer to generate these instead of writing this file by hand. --- *Delete this file once you've added a real news post \u2014 it's just here to show the expected format"
+  },
+  {
+    "title": "TOP 5 Mobile Penetration Testing Certifications of 2026",
+    "date": "2026-06-27",
+    "platform": "other",
+    "path": "writeups/other/top-5-mobile-penetration-testing-certifications-of-2026.md",
+    "excerpt": "--- ### TOP 5 Mobile Penetration Testing Certifications of 2026 Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*OqArKwQdeK7Li9pBlGD_kA.png) Mastering mobile application security requires a blend of hands-o"
+  },
+  {
+    "title": "Water Bottle Tryhackme Writeup",
+    "date": "2026-04-08",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/water-bottle-tryhackme-writeup.md",
+    "excerpt": "--- ### Water Bottle Tryhackme Writeup Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/0*FnD4GVGUOhCIqcph) ### Task 1 : Challenge After returning to my hometown, I needed a water refill from a station I freq"
+  },
+  {
+    "title": "Done u can check",
+    "date": "2025-12-24",
+    "platform": "other",
+    "path": "writeups/other/done-u-can-check.md",
+    "excerpt": "--- Done u can check "
+  },
+  {
+    "title": "Welcome Brother",
+    "date": "2025-12-24",
+    "platform": "other",
+    "path": "writeups/other/welcome-brother.md",
+    "excerpt": "--- Welcome Brother "
+  },
+  {
+    "title": "Yes but I can't upload because of tryhackme rules",
+    "date": "2025-12-24",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/yes-but-i-cant-upload-because-of-tryhackme-rules.md",
+    "excerpt": "--- Yes but I can't upload because of tryhackme rules "
+  },
+  {
+    "title": "Advent of Cyber 2025 | All Days Answers | Tryhackme Walkthrough",
+    "date": "2025-12-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2025-all-days-answers-tryhackme-walkthrough.md",
+    "excerpt": "--- ### Advent of Cyber 2025 | All Days Answers | Tryhackme Walkthrough Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*41eU3xIDo8aZN23UOJXuIA.png) #### All tools links : [Click Here](https://multi-tools99"
+  },
+  {
+    "title": "HealthGPT Tryhackme Writeup",
+    "date": "2025-12-01",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/healthgpt-tryhackme-writeup.md",
+    "excerpt": "--- ### HealthGPT Tryhackme Writeup Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/0*RPHUXVyAX9W2dcs1) ### Task 1 : HealthGPT Meet HealthGPT, a well-meaning virtual assistant used by a busy healthcare team."
+  },
+  {
+    "title": "You can get here jawstarsec.in in blogs section",
+    "date": "2025-11-22",
+    "platform": "other",
+    "path": "writeups/other/you-can-get-here-jawstarsecin-in-blogs-section.md",
+    "excerpt": "--- You can get here jawstarsec.in in blogs section "
+  },
+  {
+    "title": "Advent of Cyber Prep Track Tryhackme Walkthrough",
+    "date": "2025-11-22",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-prep-track-tryhackme-walkthrough.md",
+    "excerpt": "--- ### Advent of Cyber Prep Track Tryhackme Walkthrough Author : Jawstar For Answers \u2014 \u2014 \u2192 [Click here](https://jawstarsec.in/advent-of-cyber-prep-track-2025-walkthrough-answers) ![](https://cdn-images-1.medium.com/max/"
+  },
+  {
+    "title": "Gauntlet CTF Weeks 1\u20136 Fully Solved\u200a\u2014\u200aAll Answers Available! \ud83d\udd25",
+    "date": "2025-11-17",
+    "platform": "other",
+    "path": "writeups/other/gauntlet-ctf-weeks-16-fully-solved-all-answers-available.md",
+    "excerpt": "--- ### **Gauntlet CTF All Weeks Fully Solved \u2014 All Answers Available!** \ud83d\udd25 I\u2019ve completed **every Gauntlet CTF challenge from Week 1 to Week 8**, and I\u2019ve published **all the answers for every room and task** to help any"
+  },
+  {
+    "title": "CRM Snatch Tryhackme Answers",
+    "date": "2025-11-11",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/crm-snatch-tryhackme-answers.md",
+    "excerpt": "--- ### CRM Snatch Tryhackme Answers Investigate the fourth, Disk part of the Honeynet Collapse! ![](https://cdn-images-1.medium.com/max/800/0*FoMkFLlE4pFElYMS) ### CRM Snatch *Hey Alex, did you finish patching the Odoo "
+  },
+  {
+    "title": "Living Off the Land Attacks Tryhackme Walkthrough",
+    "date": "2025-11-06",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/living-off-the-land-attacks-tryhackme-walkthrough.md",
+    "excerpt": "--- ### Living Off the Land Attacks Tryhackme Walkthrough Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*tj4P3cJQZz6GkskhqdaX3Q.png) If you Answers then Click Here [**Living Off the Land Attacks Tryhackme"
+  },
+  {
+    "title": "Alert Triage With Elastic Tryhackme Walkthrough",
+    "date": "2025-11-05",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/alert-triage-with-elastic-tryhackme-walkthrough.md",
+    "excerpt": "--- ### Alert Triage With Elastic Tryhackme Walkthrough Investigate alerts with Elastic by analyzing logs and spotting threats Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*OL9T_4OV84okxPMzviQlAg.png) As"
+  },
+  {
+    "title": "Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers",
+    "date": "2025-11-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/polkit-cve-2021-3560-tryhackme-walkthrough-answers.md",
+    "excerpt": "--- ### Polkit: CVE-2021-3560 Tryhackme Walkthrough Answers Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*oZSIGOoxi3kV97jETDqWvA.png) Polkit: CVE-2021\u20133560 ### What is Polkit? The logical question to be "
+  },
+  {
+    "title": "ProtoVault Breach Offsec CTF |Answers",
+    "date": "2025-10-31",
+    "platform": "offsec",
+    "path": "writeups/offsec/protovault-breach-offsec-ctf-answers.md",
+    "excerpt": "--- ### ProtoVault Breach Offsec CTF |Answers #### Author : Jawstar #### Follow for more [**Jawstar Sec cybersecurity blogs Insights and Updates | JAWSTAR SEC** *Explore blogs on cybersecurity blogs and research new ethi"
+  },
+  {
+    "title": "Linux Threat Detection Tryhackme Writeup",
+    "date": "2025-10-21",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/linux-threat-detection-tryhackme-writeup.md",
+    "excerpt": "--- ### Linux Threat Detection Tryhackme Writeup Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*jqtqTsGVhtEgYkmFmxYEAA.png) ### Task 1 : Introduction If u want all answers of this room then click here [**"
+  },
+  {
+    "title": "Network Discovery Detection Tryhackme Writeup",
+    "date": "2025-10-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/network-discovery-detection-tryhackme-writeup.md",
+    "excerpt": "--- ### Network Discovery Detection Tryhackme Writeup Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*q-g5CdVzgXr9xcnsMnMTsA.png) ### Room Pre-requisites To extract the maximum benefit from this room, it i"
+  },
+  {
+    "title": "XDR: Operation Global Dagger Tryhackme Writeup",
+    "date": "2025-10-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/xdr-operation-global-dagger-tryhackme-writeup.md",
+    "excerpt": "--- ### XDR: Operation Global Dagger Tryhackme Writeup Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*8Rk6FzPSSEqeBpCkBMuSYg.png) ### Scenario Today, your organisation\u2019s threat intelligence (TI) team rece"
+  },
+  {
+    "title": "XDR: Credential Access Tryhackme Writeup",
+    "date": "2025-09-29",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/xdr-credential-access-tryhackme-writeup.md",
+    "excerpt": "--- ### XDR: Credential Access Tryhackme Writeup Auth : Jawstar Threat actors need credentials to gain unauthorised access to systems, elevate privileges, and move laterally within the environment while appearing as legi"
+  },
+  {
+    "title": "AppSec IR Tryhackme Writeup",
+    "date": "2025-09-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/appsec-ir-tryhackme-writeup.md",
+    "excerpt": "--- ### AppSec IR Tryhackme Writeup Author: Jawstar You can Follow me on Linkedin [linkedin.com/in/abdul-wasay-jagirdar-b416822b4](https://www.linkedin.com/in/abdul-wasay-jagirdar-b416822b4)/ #### TASK 1 : Introduction !"
+  },
+  {
+    "title": "Chaining Vulnerabilities Tryhackme Writeups",
+    "date": "2025-09-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/chaining-vulnerabilities-tryhackme-writeups.md",
+    "excerpt": "--- ### Chaining Vulnerabilities Tryhackme Writeups #### **Author : Jawstar** You can Follow me on Linkedin [linkedin.com/in/abdul-wasay-jagirdar-b416822b4](https://www.linkedin.com/in/abdul-wasay-jagirdar-b416822b4)/ !["
+  },
+  {
+    "title": "MS Sentinel: Introduction",
+    "date": "2025-07-07",
+    "platform": "other",
+    "path": "writeups/other/ms-sentinel-introduction.md",
+    "excerpt": "--- ### MS Sentinel: Introduction **What is Microsoft Sentinel and how does it fit into the role of a Security Operations Analyst?** ![](https://cdn-images-1.medium.com/max/800/0*SKq01K9YUoBRPRz0) ### Task 1 : Microsoft "
+  },
+  {
+    "title": "Next.js: CVE-2025\u201329927 Tryhackme Write-up",
+    "date": "2025-03-24",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/nextjs-cve-202529927-tryhackme-write-up.md",
+    "excerpt": "--- ### Next.js: CVE-2025\u201329927 Tryhackme Write-up #### Explore an authorization bypass vulnerability in Next.js ![](https://cdn-images-1.medium.com/max/800/0*yKnCJPQdkXpxcwsC) ### Task 1 : Introduction Next.js is a web "
+  },
+  {
+    "title": "Password Attacks Part -3 Tryhackme Write-ups",
+    "date": "2025-03-16",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/password-attacks-part-3-tryhackme-write-ups.md",
+    "excerpt": "--- ### Password Attacks Part -3 Tryhackme Write-ups Notes ### Offline Attacks ### {Dictionary and Brute-Force} This section discusses offline attacks, including dictionary, brute-force, and rule-based attacks. ### Dicti"
+  },
+  {
+    "title": "Password Attacks  Tryhackme",
+    "date": "2025-03-16",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/password-attacks-tryhackme-3.md",
+    "excerpt": "--- ### Password Attacks Tryhackme Notes : Part 4 ![](https://cdn-images-1.medium.com/max/800/1*hrpoWXL6WC80fzQ4jlUtEA.png) ### Offline Attacks #2 #### { Rule-Based } ### Rule-Based attacks Rule-Based attacks are also kn"
+  },
+  {
+    "title": "Tomcat: CVE-2024\u201350379 Explaination",
+    "date": "2025-03-13",
+    "platform": "other",
+    "path": "writeups/other/tomcat-cve-202450379-explaination.md",
+    "excerpt": "--- ### Tomcat: CVE-2024\u201350379 Explaination ### Learning Objectives In this room, we will cover the following: * What\u2019s a TOCTOU and how it can be exploited * Exploiting a vulnerable version of Tomcat * Detecting such an"
+  },
+  {
+    "title": "Password Attacks Tryhackme",
+    "date": "2025-03-08",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/password-attacks-tryhackme-2.md",
+    "excerpt": "--- ### Password Attacks Tryhackme #### Notes : PART 2 ![](https://cdn-images-1.medium.com/max/800/0*e4UCNQxVhiRhIcN8.png) ### Contents : * Password profiling * Password attacks techniques * Online password attacks ### P"
+  },
+  {
+    "title": "Password Attacks Tryhackme",
+    "date": "2025-03-08",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/password-attacks-tryhackme.md",
+    "excerpt": "--- ### Password Attacks Tryhackme #### Notes : PART 1 ![](https://cdn-images-1.medium.com/max/800/0*l0uTAqZomA-d_C64.png) ### Contents : * Password profiling * Password attacks techniques * Online password attacks #### "
+  },
+  {
+    "title": "Bebop\u00a0: Drone Hacking Tryhackme Write-up",
+    "date": "2025-03-07",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/bebop-drone-hacking-tryhackme-write-up.md",
+    "excerpt": "--- ### Bebop : Drone Hacking Tryhackme Write-up Who thought making a flying shell was a good idea? [**Jawstar - Medium** *Read writing from Jawstar on Medium. I'm a Penetration Tester, Cyber security researcher & Top 1%"
+  },
+  {
+    "title": "It's my pleasure to add you",
+    "date": "2025-02-03",
+    "platform": "other",
+    "path": "writeups/other/its-my-pleasure-to-add-you.md",
+    "excerpt": "--- It's my pleasure to add you "
+  },
+  {
+    "title": "MBR and GPT Analysis TryhackmeWalkthrough Answers",
+    "date": "2025-01-23",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/mbr-and-gpt-analysis-tryhackmewalkthrough-answers.md",
+    "excerpt": "--- ### MBR and GPT Analysis TryhackmeWalkthrough Answers Learn how MBR and GPT forensics are carried out to identify attacks during the boot process. ![](https://cdn-images-1.medium.com/max/800/0*1rSvNje_ubWI0f07) #### "
+  },
+  {
+    "title": "Light Room Tryhackme Walkthrough",
+    "date": "2025-01-22",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/light-room-tryhackme-walkthrough.md",
+    "excerpt": "--- ### Light Room Tryhackme Walkthrough Welcome to the Light database application! ![](https://cdn-images-1.medium.com/max/800/0*lB1vpO5kehIWEWx1) ### Task 1 : Welcome I am working on a database application called Light"
+  },
+  {
+    "title": "Lo-Fi Tryhackme Walkthrough Answers",
+    "date": "2025-01-22",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/lo-fi-tryhackme-walkthrough-answers.md",
+    "excerpt": "--- ### Lo-Fi Tryhackme Walkthrough Answers Want to hear some lo-fi beats, to relax or study to? We\u2019ve got you covered! ![](https://cdn-images-1.medium.com/max/800/0*zetp3-fiRGVvvFzH) ### Task 1 : Lo-Fi Want to hear some"
+  },
+  {
+    "title": "Advent of Cyber \u201924 Side Quest Anwers { T 2 } Answers",
+    "date": "2025-01-14",
+    "platform": "other",
+    "path": "writeups/other/advent-of-cyber-24-side-quest-anwers-t-2-answers.md",
+    "excerpt": "--- ### Advent of Cyber \u201924 Side Quest Anwers { T 2 } Answers T2: Yin and Yang ### T2:- Krampus Festival ![](https://cdn-images-1.medium.com/max/800/0*ZGcBeO9OJyEAb-vQ.png)![](https://cdn-images-1.medium.com/max/800/0*p2"
+  },
+  {
+    "title": "Silver Platter\u00a0: Tryhackme Challenge Answers",
+    "date": "2025-01-14",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/silver-platter-tryhackme-challenge-answers.md",
+    "excerpt": "--- ### Silver Platter : Tryhackme Challenge Answers ![](https://cdn-images-1.medium.com/max/800/0*UK7zLxp2tWAEPfEP) ### Welcome to Silver Platter ![](https://cdn-images-1.medium.com/max/800/0*Z6Fv35eDoarOFMRI.jpg) Think"
+  },
+  {
+    "title": "Firewall Rules Ultimate Guide 4 Beginners",
+    "date": "2025-01-08",
+    "platform": "other",
+    "path": "writeups/other/firewall-rules-ultimate-guide-4-beginners.md",
+    "excerpt": "--- ### Firewall Rules Ultimate Guide 4 Beginners Auth : [Jawstar](https://medium.com/u/c42b7c126e68) ![](https://cdn-images-1.medium.com/max/800/0*ilAJsyw_lpifVNjQ) ### Firewall Rules #### 1. Allow SSH (port 22) from a "
+  },
+  {
+    "title": "Advent of Cyber \u201924 Side Quest Anwers { T 1 }",
+    "date": "2025-01-06",
+    "platform": "other",
+    "path": "writeups/other/advent-of-cyber-24-side-quest-anwers-t-1.md",
+    "excerpt": "--- ### Advent of Cyber \u201924 Side Quest Anwers { T 1 } #### T1: Operation Tiny Frostbite ![](https://cdn-images-1.medium.com/max/800/0*eUVA3qLc8Go_0mGj) ### Ransomware Note #1 ![](https://cdn-images-1.medium.com/max/800/0"
+  },
+  {
+    "title": "Nikto\u00a0: VulnerabilityScanner COMMANDS",
+    "date": "2025-01-04",
+    "platform": "other",
+    "path": "writeups/other/nikto-vulnerabilityscanner-commands.md",
+    "excerpt": "--- ### Nikto : Vulnerability Scanner COMMANDS Auth : [Jawstar](https://medium.com/u/c42b7c126e68) **Nikto is a web server scanner that identifies vulnerabilities.** ![](https://cdn-images-1.medium.com/max/800/1*PD7OVgPw"
+  },
+  {
+    "title": "How to stabilize a simple reverse shell to a fully interactive terminal",
+    "date": "2025-01-02",
+    "platform": "other",
+    "path": "writeups/other/how-to-stabilize-a-simple-reverse-shell-to-a-fully-interactive-terminal.md",
+    "excerpt": "--- ### How to stabilize a simple reverse shell to a fully interactive terminal Auth: jawstar ![](https://cdn-images-1.medium.com/max/800/0*XcNTYtVvGqxV4jpx) ### Problem: In CTFs (Capture the Flag) competitions when you "
+  },
+  {
+    "title": "Upgrading Simple Shells to Fully Interactive TTYs",
+    "date": "2025-01-02",
+    "platform": "other",
+    "path": "writeups/other/upgrading-simple-shells-to-fully-interactive-ttys.md",
+    "excerpt": "--- ### Upgrading Simple Shells to Fully Interactive TTYs Auth : [Jawstar](https://medium.com/u/c42b7c126e68) ### Table of Contents * Generating reverse shell Commands * Method 1 : Python pty Module * Method 2 : Using So"
+  },
+  {
+    "title": "BEST AUTOMATED TOOLS THAT YOU NEED TO KNOW NOW\u00a0?????",
+    "date": "2024-12-29",
+    "platform": "other",
+    "path": "writeups/other/best-automated-tools-that-you-need-to-know-now.md",
+    "excerpt": "--- ### BEST AUTOMATED TOOLS THAT YOU NEED TO KNOW RIGHT NOW ????? #### BEFORE GOING TO MANUAL TESTING !!!!!!!!!!!!!!!!!! #### TOP 20 TOOLS FOR ADVANCED WEB / MOB APP / API /DEVSECOPS SECURITY TESTING ![](https://cdn-ima"
+  },
+  {
+    "title": "The Sticker Shop\u00a0: Tryhackme {Write-up}",
+    "date": "2024-12-28",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/the-sticker-shop-tryhackme-write-up.md",
+    "excerpt": "--- ### The Sticker Shop : Tryhackme {Write-up} ![](https://cdn-images-1.medium.com/max/800/0*bQ--Q8NrRzop-ePa) ### Created by ![](https://cdn-images-1.medium.com/max/800/0*mojySxnr-g138_v1.png) #### [tryhackme](https://"
+  },
+  {
+    "title": "Supply Chain Attack: Lottie Tryhackme {Write-up}",
+    "date": "2024-12-27",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/supply-chain-attack-lottie-tryhackme-write-up.md",
+    "excerpt": "--- ### Supply Chain Attack: Lottie Tryhackme {Write-up} ![](https://cdn-images-1.medium.com/max/800/0*YzdD0kqkDNL6vPdi) ### Task 1 : Introduction Supply chain attacks are a rising threat in cyber security, targeting the"
+  },
+  {
+    "title": "Brother this is oldest and beginner level method , first I thought you are telling new method but\u2026",
+    "date": "2024-12-25",
+    "platform": "other",
+    "path": "writeups/other/brother-this-is-oldest-and-beginner-level-method-first-i-thought-you-are-telling.md",
+    "excerpt": "--- Brother this is oldest and beginner level method , first I thought you are telling new method but after reading it's the first method that I have used to hack someone "
+  },
+  {
+    "title": "Advent of Cyber 2024 {Day - 23} Tryhackme Answers",
+    "date": "2024-12-24",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-23-tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {Day - 23} Tryhackme Answers ### The Story ![](https://cdn-images-1.medium.com/max/800/0*VYnOfuiYaJOsVHkH.png) As time went on by, something seemed funny: Mayor Malware and the source of his "
+  },
+  {
+    "title": "Advent of Cyber 2024 {Day\u200a\u2014\u200a24} Tryhackme Answers",
+    "date": "2024-12-24",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-24-tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {Day \u2014 24} Tryhackme Answers > ***Communication protocols*** ![](https://cdn-images-1.medium.com/max/800/0*KIxSxPy_yfSnVf-R.png) ### Day 24: You can\u2019t hurt SOC-mas, Mayor Malware! *In Warevil"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY - 22}Tryhackme Answers",
+    "date": "2024-12-22",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-22tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY - 22}Tryhackme Answers **The Story** ![](https://cdn-images-1.medium.com/max/800/0*ubiws77ZqbTliHjT.png) *Mayor Malware laughed hard at what he had done,* *another scheme hatched, another"
+  },
+  {
+    "title": "First just see the image after that copy my answer and paste and also check the dash between then\u2026",
+    "date": "2024-12-21",
+    "platform": "other",
+    "path": "writeups/other/first-just-see-the-image-after-that-copy-my-answer-and-paste-and-also-check-the-.md",
+    "excerpt": "--- First just see the image after that copy my answer and paste and also check the dash between then if it's bigger then cut it into small "
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY\u200a\u2014\u200a21}Tryhackme Answers",
+    "date": "2024-12-21",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-21tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY \u2014 21}Tryhackme Answers > ***Reverse engineering*** ### Day 21: HELP ME\u2026I\u2019m REVERSE ENGINEERING! ![](https://cdn-images-1.medium.com/max/800/0*mEoa-8dT5MOP38oT.png) > ***Answer the questio"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY - 17}Tryhackme Answers",
+    "date": "2024-12-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-17tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY - 17}Tryhackme Answers > ***Log analysis*** ### Day 17: He analyzed and analyzed till his analyzer was sore! ![](https://cdn-images-1.medium.com/max/800/0*PB4nRziU5lS3MmeT.png)![](https:"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY - 18}Tryhackme walkthrough",
+    "date": "2024-12-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-18tryhackme-walkthrough.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY - 18}Tryhackme walkthrough Author : - [Jawstar](https://medium.com/u/c42b7c126e68) > ***Prompt injection*** ### Day 18: I could use a little AI interaction! ![](https://cdn-images-1.medi"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY\u200a\u2014\u200a19}Tryhackme Answers",
+    "date": "2024-12-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-19tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY \u2014 19}Tryhackme Answers ![](https://cdn-images-1.medium.com/max/800/0*ZKjlTQNO1TI1vJJ2.png)![](https://cdn-images-1.medium.com/max/800/0*-PH18n7hRMg14ORG.png) > ***Answer the questions be"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY - 20 } Tryhackme Answers",
+    "date": "2024-12-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-20-tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY - 20 } Tryhackme Answers **The Story** ![](https://cdn-images-1.medium.com/max/800/0*6nD9UreMHwAW2UFe.png) *Glitch snuck through the shadows, swift as a breeze, He captured the traffic w"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY - 12}Tryhackme ANSWERS",
+    "date": "2024-12-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-12tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY - 12}Tryhackme ANSWERS ![](https://cdn-images-1.medium.com/max/800/0*aMguUXeW-ud7C_zH.png)![](https://cdn-images-1.medium.com/max/800/0*99SZ0Zr76sbYiqAt.gif)![](https://cdn-images-1.mediu"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY-14}Tryhackme Answers",
+    "date": "2024-12-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-14tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY-14}Tryhackme Answers **The Story** ![](https://cdn-images-1.medium.com/max/800/0*sg8JHmLHDi1XnjKr.png) *\u201cIt\u2019s the Mayor\u201d said the Glitch, he said it while sighing,* *\u201cThe people of Warevi"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY-15}Tryhackme Answers",
+    "date": "2024-12-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-15tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY-15}Tryhackme Answers **The Story** ![](https://cdn-images-1.medium.com/max/800/0*t5XCt6FMJ22weuWF.png) Ahead of SOC-mas, the team decided to do a routine security check of one of their Ac"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY-16}Tryhackme Answers",
+    "date": "2024-12-17",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-16tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY-16}Tryhackme Answers **The Story** ![](https://cdn-images-1.medium.com/max/800/0*tAFlz0eFGoB3jDyw.png) Another day, another challenge and, unfortunately for McSkidy, another intrusion in "
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY-11}Tryhackme Answers",
+    "date": "2024-12-12",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-11tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY-11}Tryhackme Answers ### **The Story** ![](https://cdn-images-1.medium.com/max/800/0*2mdEJgrPI0BZAmpV.png) The much-awaited SOC-mas of Wareville town is just days away! Glitch, the unsung"
+  },
+  {
+    "title": "Advent of Cyber 2024{DAY-10}Tryhackme Answers",
+    "date": "2024-12-10",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024day-10tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024{DAY-10}Tryhackme Answers ### {Day \u2014 10 }: He had a brain full of macros, and had shells in his soul. ![](https://cdn-images-1.medium.com/max/800/0*4qmIotGToWmgPcdk.png) ### The Story *Mayor M"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY - 9} Tryhackme Answers",
+    "date": "2024-12-09",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-9-tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY - 9} Tryhackme Answers #### Day 9: Nine o\u2019clock, make GRC fun, tell no one. ![](https://cdn-images-1.medium.com/max/800/0*PsPRDrp8csPYyega.png)![](https://cdn-images-1.medium.com/max/800"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY - 8}Tryhackme Answers",
+    "date": "2024-12-08",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-8tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY - 8}Tryhackme Answers #### THE STORY ![](https://cdn-images-1.medium.com/max/800/0*EmN13QsbPOEoo-VN.png) *Glitch the hacker, clever yet distrusted,* *Wrote a script with skills finely ad"
+  },
+  {
+    "title": "Advent of Cyber 2024 {Day 7}Writeup Answers TryHackMe",
+    "date": "2024-12-07",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-7writeup-answers-tryhackme.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {Day 7}Writeup Answers TryHackMe Day 7: Oh, no. I\u2019M SPEAKING IN CLOUDTRAIL! ### If you Liked the post, please clap and share your thoughts on the Comments. **The Story** ![](https://cdn-image"
+  },
+  {
+    "title": "https://jawstar.medium.com/advent-of-cyber-2024-day-7-writeup-answers-tryhackme-e69b29362771?sk=47a7",
+    "date": "2024-12-07",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/httpsjawstarmediumcomadvent-of-cyber-2024-day-7-writeup-answers-tryhackme-e69b29.md",
+    "excerpt": "--- <https://jawstar.medium.com/advent-of-cyber-2024-day-7-writeup-answers-tryhackme-e69b29362771?sk=47a799c50851b26d8606117b9111a0f1> friend link "
+  },
+  {
+    "title": "Hii Brother I would like to contribute my writing.",
+    "date": "2024-12-06",
+    "platform": "other",
+    "path": "writeups/other/hii-brother-i-would-like-to-contribute-my-writing.md",
+    "excerpt": "--- Hii Brother I would like to contribute my writing. "
+  },
+  {
+    "title": "I want to join as a writer but how to join pls tell me",
+    "date": "2024-12-06",
+    "platform": "other",
+    "path": "writeups/other/i-want-to-join-as-a-writer-but-how-to-join-pls-tell-me.md",
+    "excerpt": "--- I want to join as a writer but how to join pls tell me "
+  },
+  {
+    "title": "Advent of Cyber 2024 { Day - 6} Tryhackme Answers Write-up",
+    "date": "2024-12-06",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-6-tryhackme-answers-write-up.md",
+    "excerpt": "--- ### Advent of Cyber 2024 { Day 6} Tryhackme Answers Write-up ![](https://cdn-images-1.medium.com/max/800/0*N0puuqeqn2r2PrfX.png) *Mayor Malware was scheming, quite full of delight, To ruin SOC-mas and frighten SOC te"
+  },
+  {
+    "title": "Advent of Cyber 2024{ALL DAYS} Tryhackme Answers | Write-ups",
+    "date": "2024-12-06",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024all-days-tryhackme-answers-write-ups.md",
+    "excerpt": "--- ### Advent of Cyber 2024{ALL DAYS} Tryhackme Answers | Write-ups ![](https://cdn-images-1.medium.com/max/800/0*tPFTvdgTln85OmCL)![](https://cdn-images-1.medium.com/max/800/1*D08pp3r7msw6IUqyyowQkA.png) ### { DAY - 1 "
+  },
+  {
+    "title": "https://medium.com/pen-te3h/advent-of-cyber-2024-all-days-tryhackme-answers-write-ups-3fda3dec539f?s",
+    "date": "2024-12-06",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/httpsmediumcompen-te3hadvent-of-cyber-2024-all-days-tryhackme-answers-write-ups-.md",
+    "excerpt": "--- <https://medium.com/pen-te3h/advent-of-cyber-2024-all-days-tryhackme-answers-write-ups-3fda3dec539f?sk=5f0c3f4d392fe3b2e70c1bcbfdb5ec45> "
+  },
+  {
+    "title": "Advent of Cyber 2024 {Day 5}Writeup Answers TryHackMe",
+    "date": "2024-12-05",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-5writeup-answers-tryhackme.md",
+    "excerpt": "--- ### **Advent of Cyber 2024 {Day 5}Writeup Answers TryHackMe** #### Day 5: SOC-mas XX-what-ee? ![](https://cdn-images-1.medium.com/max/800/0*fN_tEuq66sH3aD0Q.png) #### **The Story** ![](https://cdn-images-1.medium.com"
+  },
+  {
+    "title": "Advent of Cyber 2024 { Day 4} Tryhackme Answers",
+    "date": "2024-12-04",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-4-tryhackme-answers.md",
+    "excerpt": "--- ### Advent of Cyber 2024 { Day 4} Tryhackme Answers #### Atomic Red Team Day 4: I\u2019m all atomic inside! #### The Story ![](https://cdn-images-1.medium.com/max/800/0*ENhRD8AV8oWBAVa-.png) SOC-mas is approaching! And th"
+  },
+  {
+    "title": "Advent of Cyber 2024 { Day 2 } Tryhackme Write-up",
+    "date": "2024-12-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-2-tryhackme-write-up.md",
+    "excerpt": "--- ### Advent of Cyber 2024 { Day 2 } Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/0*7slulZFf3CVvTKDc) ### **(Log analysis )** ### **Day 2: One man\u2019s false positive is another man\u2019s potpourri.** #### A"
+  },
+  {
+    "title": "Advent of Cyber 2024 {Day 3} Tryhackme Write-up",
+    "date": "2024-12-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-3-tryhackme-write-up.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {Day 3} Tryhackme Write-up #### (Log analysis) Day 3: Even if I wanted to go, their vulnerabilities wouldn\u2019t allow it. ![](https://cdn-images-1.medium.com/max/800/0*uhCdVQF7VbcfN2lc) ### **Th"
+  },
+  {
+    "title": "Advent of Cyber 2024 {DAY 1} Tryhackme Write-up",
+    "date": "2024-12-02",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/advent-of-cyber-2024-day-1-tryhackme-write-up.md",
+    "excerpt": "--- ### Advent of Cyber 2024 {DAY 1} Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/0*nFOY8Teqzhl84UF5)![](https://cdn-images-1.medium.com/max/800/1*D08pp3r7msw6IUqyyowQkA.png) ### Answer the questions be"
+  },
+  {
+    "title": "x86 Architecture Overview Tryhackme Write-up",
+    "date": "2024-12-01",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/x86-architecture-overview-tryhackme-write-up.md",
+    "excerpt": "--- ### x86 Architecture Overview Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/1*gHJ5cyeq4Oj0mlsdLbR58Q.png)![](https://cdn-images-1.medium.com/max/800/0*DERmIcgyM9v8tX0G.png) ### Task 1 : Introduction "
+  },
+  {
+    "title": "Fantastic \ud83d\ude07",
+    "date": "2024-11-28",
+    "platform": "other",
+    "path": "writeups/other/fantastic.md",
+    "excerpt": "--- Fantastic \ud83d\ude07 "
+  },
+  {
+    "title": "Complete Checklist Handbook  for",
+    "date": "2024-11-26",
+    "platform": "other",
+    "path": "writeups/other/complete-checklist-handbook-for-web-application-testing.md",
+    "excerpt": "--- ### Complete Checklist Handbook for Web Application Testing Author : Jawstar ![](https://cdn-images-1.medium.com/max/800/1*50C-WnLfKh3Sy8KjlXerLQ.jpeg) ### Introduction :- Web Testing in simple terms is checking your"
+  },
+  {
+    "title": "Pwnkit: CVE-2021\u20134034 Tryhackme Write up",
+    "date": "2024-11-23",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/pwnkit-cve-20214034-tryhackme-write-up.md",
+    "excerpt": "--- ### Pwnkit: CVE-2021\u20134034 Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/0*5Cd6jjnu9wxIvqzk.png) ### Task 1 : Introduction and Deploy CVE-2021\u20134034 (colloquially dubbed \u201cPwnkit\u201d) is a terrifying **L**"
+  },
+  {
+    "title": "Multi-Factor Authentication Tryhackme Answers",
+    "date": "2024-11-21",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/multi-factor-authentication-tryhackme-answers.md",
+    "excerpt": "--- ### Multi-Factor Authentication Tryhackme Answers ![](https://cdn-images-1.medium.com/max/800/0*FldB-tjk0diwVrO7) ### Task 1 : Introduction Multi-Factor Authentication (MFA) plays an important role in modern-day appl"
+  },
+  {
+    "title": "Session Management Tryhackme Walkthrough Write-up",
+    "date": "2024-11-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/session-management-tryhackme-walkthrough-write-up.md",
+    "excerpt": "--- ### Session Management Tryhackme Walkthrough Write-up ![](https://cdn-images-1.medium.com/max/800/1*QRdKGoarLZ9KZ9au3Oqwwg.png) ### Task 1 : Introduction ![](https://cdn-images-1.medium.com/max/800/0*PfyjzkuSa_4HDXSk"
+  },
+  {
+    "title": "XSS Tryhackme Walkthrough Write up",
+    "date": "2024-11-20",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/xss-tryhackme-walkthrough-write-up.md",
+    "excerpt": "--- ### XSS Tryhackme Walkthrough Write up ![](https://cdn-images-1.medium.com/max/800/1*gdAOVUp02VCekvlmO7n3jA.png)![](https://cdn-images-1.medium.com/max/800/0*EWGy6kScrmGL1K2A) ### Overview: Cross-Site Scripting (XSS)"
+  },
+  {
+    "title": "DOM-Based Attacks Tryhackme Write-up",
+    "date": "2024-11-19",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/dom-based-attacks-tryhackme-write-up.md",
+    "excerpt": "--- ### DOM-Based Attacks Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/0*iA7YhTAE54bm6Yp0.png) ### Task 1 : Introduction In this room, you will learn about DOM-based attacks. In web applications, any vu"
+  },
+  {
+    "title": "Mother\u2019s Secret Tryhackme Write up",
+    "date": "2024-11-19",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/mothers-secret-tryhackme-write-up.md",
+    "excerpt": "--- ### Mother\u2019s Secret Tryhackme Write up **Exploit flaws found in Mother\u2019s code to reveal its secrets.** ![](https://cdn-images-1.medium.com/max/800/0*w2nGXbgJ9QyoTgqS.png) ### Task 1 : Ready for Take Off Introduction "
+  },
+  {
+    "title": "Nmap Advanced Port Scans",
+    "date": "2024-11-17",
+    "platform": "other",
+    "path": "writeups/other/nmap-advanced-port-scans.md",
+    "excerpt": "--- ### Nmap Advanced Port Scans ![](https://cdn-images-1.medium.com/max/800/0*vOS5Ahq9X3Q5HcZn.png) ### Some of these scan types can be useful against specific systems, while others are useful in particular network setu"
+  },
+  {
+    "title": "Digital Forensics Fundamentals Tryhackme Write-up",
+    "date": "2024-11-16",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/digital-forensics-fundamentals-tryhackme-write-up.md",
+    "excerpt": "--- ### Digital Forensics Fundamentals Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/1*8G_Z5idCdrZc9UkadaXE_g.png)![](https://cdn-images-1.medium.com/max/800/0*HUBN5i80H2sIsQBV) ### Task 1 : Introduction"
+  },
+  {
+    "title": "Linux Incident Surface Tryhackme Write up",
+    "date": "2024-11-15",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/linux-incident-surface-tryhackme-write-up.md",
+    "excerpt": "--- ### Linux Incident Surface Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/1*8Say1mXlimIy7_fTB2zs3g.png) ### Task 1 : Introduction ![](https://cdn-images-1.medium.com/max/800/0*784V6Mi2Cf4R7Y7w) ### In"
+  },
+  {
+    "title": "CVE-2023\u201327350\u200a: PaperCut Tryhackme Write up",
+    "date": "2024-11-09",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/cve-202327350-papercut-tryhackme-write-up.md",
+    "excerpt": "--- ### CVE-2023\u201327350 : PaperCut Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/1*pW7XqpEL0vgpzFDKVsr3rQ.png) #### Authorisation bypass (CVE-2023\u201327350) in PaperCut Print Management software leading to r"
+  },
+  {
+    "title": "CyberChef: The Basics Tryhackme Write up",
+    "date": "2024-11-07",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/cyberchef-the-basics-tryhackme-write-up.md",
+    "excerpt": "--- ### CyberChef: The Basics Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/1*LwPkmcMJiYnCnI9nGOfwEA.png) ### Task 1 : Introduction CyberChef is a simple, intuitive web-based application designed to help"
+  },
+  {
+    "title": "Identity and Access Management THM Write up",
+    "date": "2024-11-05",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/identity-and-access-management-thm-write-up.md",
+    "excerpt": "--- ### Identity and Access Management THM Write up #### Learn about identification, authentication, authorisation, accounting, and identity management. FOR NON PREMIUM MEMBERS : <https://jawstar.medium.com/identity-and-"
+  },
+  {
+    "title": "REMnux: Getting Started Tryhackme Write up",
+    "date": "2024-11-05",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/remnux-getting-started-tryhackme-write-up.md",
+    "excerpt": "--- ### REMnux: Getting Started Tryhackme Write up Learn how you can use the tools inside the REMnux VM. For free users : <https://jawstar.medium.com/remnux-getting-started-tryhackme-write-up-855ea72cb34f?sk=17083f3703b9"
+  },
+  {
+    "title": "Common Linux Privesc\u200a\u2014\u200aTryhackme Write-up",
+    "date": "2024-11-04",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/common-linux-privesc-tryhackme-write-up.md",
+    "excerpt": "--- ### Common Linux Privesc \u2014 Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/1*LUpQNZA-610GTIzEBtRzwQ.png)![](https://cdn-images-1.medium.com/max/800/0*De4cH2sDXaDo7KXh.png) ### Task 1 : Get Connected Th"
+  },
+  {
+    "title": "Python for Pentesters Tryhackme Write up",
+    "date": "2024-11-04",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/python-for-pentesters-tryhackme-write-up.md",
+    "excerpt": "--- ### Python for Pentesters Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/1*KibXbi7lPPxNbHrNj8JqJw.png)![](https://cdn-images-1.medium.com/max/800/0*4xuatSo2PRIoMr4X.png) ### Task 1 : Introduction Pyth"
+  },
+  {
+    "title": "Whiterose Tryhackme Writeup",
+    "date": "2024-11-04",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/whiterose-tryhackme-writeup.md",
+    "excerpt": "--- ### Whiterose Tryhackme Writeup ![](https://cdn-images-1.medium.com/max/800/0*-6pQqDk0KX6Stczn) ### Task 1 : Welcome! ### Welcome to Whiterose This challenge is based on the Mr. Robot episode \u201c409 Conflict\u201d. Contains"
+  },
+  {
+    "title": "Steel Mountain Challenge\u200a\u2014\u200aTryhackme Write-up",
+    "date": "2024-11-03",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/steel-mountain-challenge-tryhackme-write-up.md",
+    "excerpt": "--- ### Steel Mountain Challenge \u2014 Tryhackme Write-up ![](https://cdn-images-1.medium.com/max/800/1*_i2bcAjGufyAJhJeOzL7_Q.png) ### Task 1 : Introduction ![](https://cdn-images-1.medium.com/max/800/0*XzjMqGk1xdA8BxRy.png"
+  },
+  {
+    "title": "\ud83d\ude07",
+    "date": "2024-11-01",
+    "platform": "other",
+    "path": "writeups/other/untitled.md",
+    "excerpt": "--- \ud83d\ude07 "
+  },
+  {
+    "title": "Google Dorking Tryhackme Writeup",
+    "date": "2024-11-01",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/google-dorking-tryhackme-writeup.md",
+    "excerpt": "--- ### Google Dorking Tryhackme Writeup ![](https://cdn-images-1.medium.com/max/800/1*lnmDdK5t9f6KpRGKWzkdAQ.png)![](https://cdn-images-1.medium.com/max/800/1*f4xZfB46cYmd0IT0dVoFPg.png) ### Task 1 : Ye Ol\u2019 Search Engin"
+  },
+  {
+    "title": "Shells Overview Tryhackme Writeup",
+    "date": "2024-11-01",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/shells-overview-tryhackme-writeup.md",
+    "excerpt": "--- ### Shells Overview Tryhackme Writeup ![](https://cdn-images-1.medium.com/max/800/1*JXGx32bNW52SZ3p2RnUCaQ.png)![](https://cdn-images-1.medium.com/max/800/0*U5MO62Y_DBcWYVpA) ### Task 1 : Room Introduction ### Introd"
+  },
+  {
+    "title": "SQL Fundamentals Tryhackme Write up",
+    "date": "2024-11-01",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/sql-fundamentals-tryhackme-write-up.md",
+    "excerpt": "--- ### SQL Fundamentals Tryhackme Write up ![](https://cdn-images-1.medium.com/max/800/1*z9t4B27VyGB6PpGau0lZaA.png)![](https://cdn-images-1.medium.com/max/800/0*2t_Uvh6lbNu31BNt) ### Task 1 : Introduction ### Introduct"
+  },
+  {
+    "title": "Moniker Link (CVE-2024\u201321413) | EXPLOITATION BASICS TRYHACKME",
+    "date": "2024-10-31",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/moniker-link-cve-202421413-exploitation-basics-tryhackme.md",
+    "excerpt": "--- ### Moniker Link (CVE-2024\u201321413) | EXPLOITATION BASICS TRYHACKME ![](https://cdn-images-1.medium.com/max/800/1*V1Wzsv-ucasof8vV71mJfg.png) ### Task 1 : Introduction ![](https://cdn-images-1.medium.com/max/800/0*E3Ho"
+  },
+  {
+    "title": "Wifi Hacking 101 Tryhackme",
+    "date": "2024-10-31",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/wifi-hacking-101-tryhackme.md",
+    "excerpt": "--- ### Wifi Hacking 101 THM ![](https://cdn-images-1.medium.com/max/800/1*oYWhXrt4qFNz76TrLzV2jg.png) ### Task 1 : The basics \u2014 An Intro to WPA Key Terms * SSID: The network \u201cname\u201d that you see when you try and connect "
+  },
+  {
+    "title": "Vulnerability Capstone Tryhackme",
+    "date": "2024-10-30",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/vulnerability-capstone-tryhackme.md",
+    "excerpt": "--- ### Vulnerability Capstone Tryhackme **Jr. Penetration Tester Path** ![](https://cdn-images-1.medium.com/max/800/1*Uo9ZrikR9saVCKf_vdai6g.png) ### Task 1 : Introduction ![](https://cdn-images-1.medium.com/max/800/0*4"
+  },
+  {
+    "title": "Weaponizing Vulnerabilities |Tryhackme Write Up | By jawstar",
+    "date": "2024-10-29",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/weaponizing-vulnerabilities-tryhackme-write-up-by-jawstar.md",
+    "excerpt": "--- ### Weaponizing Vulnerabilities |Tryhackme Write Up | By jawstar ![](https://cdn-images-1.medium.com/max/1200/1*ksgfAHVAMhn6jPPLcW_0qg.png) ### Task 1: Introduction Weaponizing a vulnerability refers to the process o"
+  },
+  {
+    "title": "Cryptography Basics | Tryhackme Write Up | By jawstar",
+    "date": "2024-10-28",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/cryptography-basics-tryhackme-write-up-by-jawstar.md",
+    "excerpt": "--- ### Cryptography Basics | Tryhackme Write Up | By jawstar **CYBER SECURITY 101** ![](https://cdn-images-1.medium.com/max/800/1*oL3CG6WcN7HPISayzszR7Q.png) ### **Introduction** Cryptography lays the foundation for our"
+  },
+  {
+    "title": "FlareVM: Arsenal of Tools",
+    "date": "2024-10-28",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/flarevm-arsenal-of-tools.md",
+    "excerpt": "--- ### FlareVM: Arsenal of Tools Tryhackme Write up ### By jawstar ![](https://cdn-images-1.medium.com/max/800/1*oin10UnjnXLVevIjH-m7hg.png) ### TASK 1 : Introduction **FlareVM**, or \u201c**Forensics, Logic Analysis, and Re"
+  },
+  {
+    "title": "Hydra Commands | Tryhackme Write up By jawstar",
+    "date": "2024-10-28",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/hydra-commands-tryhackme-write-up-by-jawstar.md",
+    "excerpt": "--- ### Hydra Tryhackme Write up By jawstar **CYBER SECURITY 101** ![](https://cdn-images-1.medium.com/max/800/1*4unk6D7N89Evm19wa8h19A.png) ### What is Hydra? ![](https://cdn-images-1.medium.com/max/800/1*WrU-JfhY_0O8nt"
+  },
+  {
+    "title": "SQLMap: The Basics | Tryhackme Write up By jawstar",
+    "date": "2024-10-28",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/sqlmap-the-basics-tryhackme-write-up-by-jawstar.md",
+    "excerpt": "--- ### SQLMap: The Basics | Tryhackme Write up By jawstar ### CYBER SECURITY 101 ![](https://cdn-images-1.medium.com/max/1200/1*8m98i-vb1YoUf_s74JreIQ.png) ### **Task 1 : Introduction** SQL injection is a prevalent vuln"
+  },
+  {
+    "title": "Gophish: Open-Source Phishing Toolkit | By jawstar",
+    "date": "2024-10-27",
+    "platform": "other",
+    "path": "writeups/other/gophish-open-source-phishing-toolkit-by-jawstar.md",
+    "excerpt": "--- ### Gophish: Open-Source Phishing Toolkit | By jawstar ### Introduction Phishing attacks continue to be a significant cybersecurity threat, and organizations must proactively educate their employees and strengthen th"
+  },
+  {
+    "title": "GoPhish\u00a0: 2024| Phishing  write up Tryhackme By jawstar",
+    "date": "2024-10-27",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/gophish-2024-phishing-write-up-tryhackme-by-jawstar.md",
+    "excerpt": "--- ### GoPhish : 2024| Phishing write up Tryhackme By jawstar ![](https://cdn-images-1.medium.com/max/800/1*YapuibuaVxSZ42OHX5zXvQ.jpeg) You should be able to log in with the username: **admin** and password: **tryhackm"
+  },
+  {
+    "title": "Gobuster: The Basics writeup | by jawstar",
+    "date": "2024-10-26",
+    "platform": "hardware-ot-ics-scada",
+    "path": "writeups/hardware-ot-ics-scada/gobuster-the-basics-writeup-by-jawstar.md",
+    "excerpt": "--- ### Gobuster: The Basics writeup | by jawstar ![](https://cdn-images-1.medium.com/max/800/1*bD4wNf4tCB0Rf8yt0JlXfg.png) ### **TASK : 1** This room focuses on the offensive security tool Gobuster, often used for recon"
+  },
+  {
+    "title": "Web Application Basics | TryHackMe",
+    "date": "2024-10-22",
+    "platform": "tryhackme",
+    "path": "writeups/tryhackme/web-application-basics-tryhackme.md",
+    "excerpt": "--- ### Web Application Basics | TryHackMe **Overview:** Welcome to Web Application Basics! In this room, we\u2019ll walk through the key elements of a web application, such as URLs, HTTP requests, and responses. This is perf"
+  },
+  {
+    "title": "How To Make Money Online as a Student?",
+    "date": "2023-03-12",
+    "platform": "other",
+    "path": "writeups/other/how-to-make-money-online-as-a-student.md",
+    "excerpt": "--- ### How To Make Money Online as a Student? ![](https://cdn-images-1.medium.com/max/800/0*u-5WmlxjxaLgbykB) There are several ways for students to make money online. Here are some options: Freelancing: You can offer y"
+  },
+  {
+    "title": "GREAT WARRIORS OF ISLAM",
+    "date": "2023-03-10",
+    "platform": "hardware-ot-ics-scada",
+    "path": "writeups/hardware-ot-ics-scada/great-warriors-of-islam-2.md",
+    "excerpt": "--- ![](https://cdn-images-1.medium.com/max/800/0*hMuJh2elzhOSGEUL.jpg) ### GREAT WARRIORS OF ISLAM **SULTAN OSMAN GHAZI (KURLUS OSMAN)** ![](https://cdn-images-1.medium.com/max/800/0*Rpb8n32SW8fjtgRI) ### **LIFE:** Osma"
+  },
+  {
+    "title": "Great warriors of Islam",
+    "date": "2023-03-09",
+    "platform": "hardware-ot-ics-scada",
+    "path": "writeups/hardware-ot-ics-scada/great-warriors-of-islam.md",
+    "excerpt": "--- ### Great warriors of Islam ### **ERTUGUL GHAZI** ![](https://cdn-images-1.medium.com/max/800/0*eea5vmzK-ms8-_P6.jpg) Ertugrul Ghazi was a legendary figure and a hero of the Turkish people who lived in the 13th centu"
+  },
+  {
+    "title": "CYBER SECURITY ROAD MAP",
+    "date": "2023-03-07",
+    "platform": "other",
+    "path": "writeups/other/cyber-security-road-map.md",
+    "excerpt": "--- ![](https://cdn-images-1.medium.com/max/800/0*ML3Mm00wxbZzAqpK) ### **CYBER SECURITY ROAD MAP** #### Hi Guys, #### **Introduction:** Cybersecurity refers to the practice of protecting computer systems, networks, devi"
+  },
+  {
+    "title": "NMAP (Network Mapper)",
+    "date": "2023-03-06",
+    "platform": "other",
+    "path": "writeups/other/nmap-network-mapper.md",
+    "excerpt": "--- ![](https://cdn-images-1.medium.com/max/800/1*FrIJvKHX-GGUQoQzsbVeHQ.png) ### NMAP (Network Mapper) ### Hi Guys, Nmap (Network Mapper) is a free and open-source tool used for network exploration, management, and secu"
+  },
+  {
+    "title": "TIP: How To Stop Robocalls To Your Phone",
+    "date": "2023-03-06",
+    "platform": "other",
+    "path": "writeups/other/tip-how-to-stop-robocalls-to-your-phone.md",
+    "excerpt": "--- ![](https://cdn-images-1.medium.com/max/800/1*M6b3EsyIOsS2twRVN6thUg.jpeg) ### **TIP: How To Stop Robocalls To Your Phone** ### **Hi Guys,** we have been asked quite a lot about how to stop Robocalls. There is not a "
+  }
+]

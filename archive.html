@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jawstar Security // Writeup Vault</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+<div class="wrap">
+
+  <div class="termbar">
+    <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+    <span style="margin-left:8px;">jawstar@security:~/writeups</span>
+  </div>
+  <div class="terminal">
+    <a href="index.html" style="font-size:12px;">&lt;- back to home</a>
+    <h1 class="brand" style="margin-top:10px;">JAWSTAR SECURITY // FULL ARCHIVE</h1>
+    <p class="tagline">
+      <span class="prompt">root@jawstar:~$</span> ./search.sh <span class="amber">--platform=all</span><span class="cursor"></span>
+      <br>100+ offensive security writeups, migrated off Medium and onto infrastructure nobody can suspend.
+    </p>
+
+    <div class="controls">
+      <input type="text" id="searchBox" placeholder="grep -i 'privilege escalation' ..." autocomplete="off">
+      <button class="filter-btn active" data-platform="all">ALL</button>
+      <button class="filter-btn" data-platform="tryhackme">TRYHACKME</button>
+      <button class="filter-btn" data-platform="hackthebox">HACKTHEBOX</button>
+      <button class="filter-btn" data-platform="offsec">OFFSEC</button>
+      <button class="filter-btn" data-platform="hardware-ot-ics-scada">HW/OT/ICS/SCADA</button>
+      <button class="filter-btn" data-platform="news">NEWS</button>
+      <button class="filter-btn" data-platform="other">OTHER</button>
+    </div>
+
+    <div class="stat-line">showing <span class="count" id="visibleCount">0</span> / <span class="count" id="totalCount">0</span> writeups</div>
+
+    <div class="entries" id="entries"></div>
+    <div class="empty-state" id="emptyState" style="display:none;">No matches. Try a different query or filter.</div>
+  </div>
+
+  <footer>
+    built by <a href="https://jawstarsec.in" target="_blank">Jawstar Security</a> ·
+    <a href="https://github.com/JawStar" target="_blank">github.com/JawStar</a>
+  </footer>
+</div>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>

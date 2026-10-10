@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jawstar Security — Offensive Security Writeups</title>
+<meta name="description" content="100+ TryHackMe, HackTheBox, and OffSec writeups plus hardware/OT/ICS/SCADA research from Jawstar Security.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/css/portfolio.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="logo">JAWSTAR<span>_</span>SECURITY</div>
+  <button class="nav-toggle" id="navToggle">MENU</button>
+  <div class="nav-links" id="navLinks">
+    <a href="#tryhackme">TryHackMe</a>
+    <a href="#hackthebox">HackTheBox</a>
+    <a href="#offsec">OffSec</a>
+    <a href="#certifications">Certifications</a>
+    <a href="#hardware">HW/OT/ICS/SCADA</a>
+    <a href="#news">News</a>
+    <a href="#other">Other</a>
+    <a href="https://jawstar.github.io/Portfolio-v1.0/" target="_blank" rel="noopener">Portfolio ↗</a>
+    <a href="archive.html">Full Archive →</a>
+  </div>
+</nav>
+
+<section class="hero">
+  <canvas id="hero-canvas"></canvas>
+  <div class="hero-hud">
+    <div class="eyebrow"><span class="blip"></span>enumeration in progress</div>
+    <div class="mascot-slot" data-size="88" style="margin: 0 auto 10px; pointer-events:none;"></div>
+    <h1>root@jawstar<span class="cyan">:</span>~<span class="amber">$</span> whoami</h1>
+    <p class="sub">Abdul Wasay Jagirdar — offensive security researcher. eJPT & CASA certified, TryHackMe Top 1%.
+      This is every writeup, cert, and piece of research Medium couldn't hold onto.</p>
+    <div class="hero-stats">
+      <div class="stat"><div class="num" id="stat-total">0</div><div class="label">WRITEUPS LOGGED</div></div>
+      <div class="stat"><div class="num" id="stat-certs">0</div><div class="label">CERTIFICATIONS</div></div>
+      <div class="stat"><div class="num" id="stat-platforms">0</div><div class="label">CATEGORIES</div></div>
+    </div>
+    <a href="https://jawstar.github.io/Portfolio-v1.0/" target="_blank" rel="noopener" class="hero-cta">→ VIEW FULL PORTFOLIO</a>
+  </div>
+  <div class="scroll-cue">▼ SCROLL TO EXPLORE ▼</div>
+</section>
+
+<main>
+
+  <section id="tryhackme" class="section">
+    <div class="section-head tryhackme"><span class="idx">01</span><div class="mascot-slot" data-size="40"></div><h2>TryHackMe</h2></div>
+    <p class="section-desc">Room walkthroughs and CTF solves — web exploitation, privilege escalation, forensics, and more.</p>
+    <div class="card-grid" id="thm-cards"></div>
+  </section>
+
+  <section id="hackthebox" class="section">
+    <div class="section-head hackthebox"><span class="idx">02</span><div class="mascot-slot" data-size="40"></div><h2>HackTheBox</h2></div>
+    <p class="section-desc">Retired box writeups covering full attack chains from initial recon to root.</p>
+    <div class="card-grid" id="htb-cards"></div>
+  </section>
+
+  <section id="offsec" class="section">
+    <div class="section-head offsec"><span class="idx">03</span><div class="mascot-slot" data-size="40"></div><h2>OffSec</h2></div>
+    <p class="section-desc">OSCP / PWK-track and Proving Grounds writeups.</p>
+    <div class="card-grid" id="offsec-cards"></div>
+  </section>
+
+  <section id="certifications" class="section">
+    <div class="section-head certifications"><span class="idx">04</span><h2>Certifications</h2></div>
+    <p class="section-desc">Credentials earned along the way.</p>
+    <div class="cert-grid" id="cert-cards"></div>
+  </section>
+
+  <section id="hardware" class="section">
+    <div class="section-head hardware"><span class="idx">05</span><div class="mascot-slot" data-size="40"></div><h2>Hardware / OT / ICS / SCADA</h2></div>
+    <p class="section-desc">Hardware hacking, embedded systems, and industrial control system security research.</p>
+    <div class="card-grid hardware" id="hw-cards"></div>
+  </section>
+
+  <section id="news" class="section">
+    <div class="section-head news"><span class="idx">06</span><div class="mascot-slot" data-size="40"></div><h2>News</h2></div>
+    <p class="section-desc">Announcements, updates, and anything that isn't a writeup.</p>
+    <div class="card-grid news" id="news-cards"></div>
+  </section>
+
+  <section id="other" class="section">
+    <div class="section-head other"><span class="idx">07</span><div class="mascot-slot" data-size="40"></div><h2>Other</h2></div>
+    <p class="section-desc">Everything else — tooling, OSINT, misc research.</p>
+    <div class="card-grid" id="other-cards"></div>
+  </section>
+
+</main>
+
+<footer class="site-footer">
+  built by <a href="https://jawstarsec.in" target="_blank">Jawstar Security</a> ·
+  <a href="https://github.com/JawStar" target="_blank">github.com/JawStar</a> ·
+  <a href="archive.html">browse full archive</a>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="assets/js/hero3d.js"></script>
+<script src="assets/js/portfolio.js"></script>
+<script src="assets/js/mascot.js"></script>
+</body>
+</html>

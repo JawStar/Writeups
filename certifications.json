@@ -1,0 +1,20 @@
+[
+  {
+    "name": "eJPT",
+    "full_name": "eLearnSecurity Junior Penetration Tester",
+    "issuer": "INE Security",
+    "note": "Practical penetration testing certification"
+  },
+  {
+    "name": "CASA",
+    "full_name": "Certified Application Security Analyst",
+    "issuer": "CASA",
+    "note": "Application security assessment certification"
+  },
+  {
+    "name": "TryHackMe Top 1%",
+    "full_name": "Global Top 1% Ranking",
+    "issuer": "TryHackMe",
+    "note": "Ranked in the top 1% of all TryHackMe users worldwide"
+  }
+]
