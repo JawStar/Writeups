@@ -1,1 +1,3 @@
+Here is the Link for the writeups : https://jawstar.github.io/Writeups
+
 A self-built research archive documenting 100+ offensive security writeups (TryHackMe, HackTheBox, OffSec, OT/ICS/SCADA), created to demonstrate independent technical initiative and depth ahead of graduate study in cybersecurity. Includes a custom-built site, content pipeline, and search system designed and engineered end-to-end, not templated.
